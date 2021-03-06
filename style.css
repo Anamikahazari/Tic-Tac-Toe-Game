@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+}
+
+#Title {
+  font-family: Verdana;
+  font-size: 30px;
+  /* margin: auto; */
+  text-align: center;
+}
+
+.visible {
+  color: white;
+
+}
+
+.container {
+  text-align: center;
+}
+
+/* p{
+    text-align: center;
+} */
+
+
+
+.box {
+  display: block;
+  float: left;
+  background-color: aquamarine;
+  width: 150px;
+  height: 150px;
+  border: solid black 2px;
+  font-size: 100px;
+  font-weight: bolder;
+  color: brown;
+}
+
+
+div>div {
+  display: inline-block;
+  position: relative;
+}
